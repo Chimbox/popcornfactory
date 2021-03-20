@@ -33,10 +33,11 @@
             android:id="@+id/btnStart"
             android:layout_width="237dp"
             android:layout_height="39dp"
+            android:layout_marginTop="20dp"
             android:textColor="@color/black"
+            android:background="@drawable/round_button"
             android:backgroundTint="@color/button_background"
-            android:text="@string/button_start"
-            app:cornerRadius="25dp"/>
+            android:text="@string/button_start" />
     </LinearLayout>
 
 </LinearLayout>
